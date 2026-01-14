@@ -1,4 +1,7 @@
 {
   "name": "test-issue-1060",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "repomix": "^1.9.0"
+  }
 }
